@@ -1,7 +1,5 @@
 # Лабораторная 0
-Силинцев Владислав Витальевич\
-**Группа:** P3314\
-**ИСУ:** 355273
+Силинцев Владислав Витальевич
 
 ## Эссе
 Я выбрал язык Clojure, потому что, во-первых, мне интересна веб-разработка, а этот язык предоставляет ClojureScript, который позволяет разрабатывать веб-приложения с возможностью использования JavaScript-библиотек.
@@ -15,3 +13,10 @@
 
 ## Книга
 Emerick, C. Clojure Programming: Practical Lisp for the Java World / C. Emerick, B. Carper, C. Grand. — Sebastopol: O'Reilly Media, 2012. — 630 p. — ISBN 978-1-4493-9470-7. 
+
+## Технологии
+- Компилятор: `Clojure CLI`, `shadow-cljs`
+- Система сборки: `Clojure CLI`, `shadow-cljs` 
+- Система форматирования: `cljfmt`
+- lint tools: `clj-kondo`
+- Тестирование: `clojure.test`
